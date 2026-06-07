@@ -1,4 +1,4 @@
 # easypg
 my first github repo
 <br>
-Author :Yash
+Author :Yash pratap
